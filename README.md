@@ -7,3 +7,7 @@ Esse projeto trouxe uma ótima iniciativa no uso do JavaScript, HTML e CSS para 
 ## Teconologias utilizadas no projeto
 
 [![Technologies](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## LinkedIn
+
+[Meu LinkedIn](https://www.linkedin.com/in/walter-junior-devp/) [![My LinkedIn](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
