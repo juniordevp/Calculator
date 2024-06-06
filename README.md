@@ -10,4 +10,4 @@ Esse projeto trouxe uma ótima iniciativa no uso do JavaScript, HTML e CSS para 
 
 ## LinkedIn
 
-[Meu LinkedIn](https://www.linkedin.com/in/walter-junior-devp/) [![My LinkedIn](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[Meu LinkedIn](https://www.linkedin.com/in/walter-junior-devp/) [![My LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)
