@@ -1,5 +1,5 @@
 # Calculator
-Essa calculadora foi criada em meio a uma live que ocorreu durante o bootcamp de JavaScript da plataforma DIO.
+Essa calculadora foi criada em meio a uma live que ocorreu durante o bootcamp de JavaScript da plataforma DIO. Live na qual foi ministrada pela professora e Expert de Mercado Diana Martine.
 
 ## Experiência
 Esse projeto trouxe uma ótima iniciativa no uso do JavaScript, HTML e CSS para desenvolvimento web, pois pude compreender como podemos realizar as devidas conexões entre os arquivos e deixar o projeto completo.
@@ -8,6 +8,6 @@ Esse projeto trouxe uma ótima iniciativa no uso do JavaScript, HTML e CSS para 
 
 [![Technologies](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-## Meu LinkedIn
+## [Meu LinkedIn](https://www.linkedin.com/in/walter-junior-devp/)
 
-[[(https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)](https://www.linkedin.com/in/walter-junior-devp/)
+[(https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)
